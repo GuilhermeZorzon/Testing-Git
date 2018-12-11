@@ -1,3 +1,2 @@
-Um testde de git
+Um teste de git
 só pra eu começar os estudos
-chambra
