@@ -1,2 +1,1 @@
-Um teste de git
-só pra eu começar os estudos
+A git test so I can start studying
